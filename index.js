@@ -6,9 +6,4 @@ function printBadges( employees ) {
   }
 }
 
-const employees2 = ['Joe', 'Gabe']
-function printBadges( employees2 ) {
-  for (let i=0; i<employees.length; i++){
-    (`Welcome ${employees2[i]} You are employee .`)
-  }
-}
+
