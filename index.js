@@ -1,2 +1,5 @@
 // Code your solutions in this file
-printBadges(['Ada', 'Brendan', 'Ali'])
+const employees = ['Ada', 'Brendan', 'Ali']
+function printBadges() {
+  
+}
