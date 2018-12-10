@@ -22,5 +22,4 @@ let counter = 0
     while (flip() ==='Tails'){
       counter++}
         return (`You got ${counter} tails in a row!`)
-
 }
