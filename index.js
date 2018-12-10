@@ -20,8 +20,7 @@ return flips
   function tailsNeverFails() {
 let counter = 0
     while (flip() ==='Tails'){
-counter++}
-
-        console.log(`You got ${counter} tails in a row!`)
+      counter++}
+        return (`You got ${counter} tails in a row!`)
 
 }
